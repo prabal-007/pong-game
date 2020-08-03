@@ -1,6 +1,3 @@
-from random import choice, random
-from turtle import *
-from freegames import vector
 
 def value():
     'randomly generate value between (-5,-3) or (3, 5)'
